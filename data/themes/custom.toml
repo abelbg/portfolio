@@ -14,8 +14,8 @@ menu_text_active = "#010A27"
 menu_title = "#05299E"
 
 # Home sections
-home_section_odd = "#ffffff"
-home_section_even = "#EBF0FE"
+home_section_odd = "#EBF0FE"
+home_section_even = "#ffffff"
 
 [dark]
   link = "#bbdefb"
