@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abel Briones
+title: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Data Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Universitat Pompey Fabra
+- name: Universitat Pompeu Fabra
   url: https://www.upf.edu/
 
 # Short bio (displayed in user profile at end of posts)
