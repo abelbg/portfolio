@@ -8,7 +8,7 @@ light = true
 primary = "#ffe7d6"
 
 # Menu
-menu_primary = "#fbf9f4"
+menu_primary = "#fff0e6"
 menu_text = "#fbf9f4"
 menu_text_active = "#fbf9f4"
 menu_title = "#fbf9f4"
