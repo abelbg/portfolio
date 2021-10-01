@@ -7,5 +7,5 @@ google_fonts = "family=Raleway:wght@500&family=Roboto+Mono&family=Roboto:wght@30
 # Font families
 heading_font = "Raleway"
 body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+nav_font = "Raleway"
+mono_font = "Roboto"
