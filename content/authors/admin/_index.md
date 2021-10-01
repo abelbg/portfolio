@@ -63,13 +63,6 @@ email: "abelbrionesg@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Widget background
-design:
-  background:
-    color: 'navy'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
-    text_color_light: []
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
