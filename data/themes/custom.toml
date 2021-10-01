@@ -5,13 +5,13 @@ name = "Custom"
 light = true
 
 # Primary
-primary = "#373F51"
+primary = "#fbf9f4"
 
 # Menu
-menu_primary = "#BFD2BF"
-menu_text = "#646F4B"
-menu_text_active = "#646F4B"
-menu_title = "#646F4B"
+menu_primary = "#fbf9f4"
+menu_text = "#fbf9f4"
+menu_text_active = "#fbf9f4"
+menu_title = "#fbf9f4"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
