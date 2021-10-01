@@ -1,4 +1,11 @@
 ---
+
+design:
+  background:
+    color: '7D6F86'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: true
+    
 # Display name
 title: 
 
@@ -6,7 +13,7 @@ title:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Data Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -62,8 +69,11 @@ email: "abelbrionesg@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
