@@ -59,7 +59,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: c
+  align: l
   show_logo: true
   show_language: false
   show_day_night: true
@@ -69,7 +69,7 @@ main_menu:
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
