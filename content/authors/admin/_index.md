@@ -6,7 +6,7 @@ title:
 superuser: true
 
 # Role/position/tagline
-role: Data Science Student
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
