@@ -46,7 +46,7 @@ social:
   link: https://twitter.com/vbel_vbel
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/abelbg
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/abelbriones/
