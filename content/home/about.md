@@ -6,9 +6,6 @@ widget: about
 # Activate this widget? true/false
 active: true
 
-# View
-view: compact
-
 # This file represents a page section.
 headless: true
 
@@ -30,5 +27,5 @@ design:
     text_color_light: []  
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["60px", "200px", "50px", "200px"]
+    padding: ["55px", "200px", "50px", "200px"]
 ---
