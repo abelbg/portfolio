@@ -6,6 +6,9 @@ widget: about
 # Activate this widget? true/false
 active: true
 
+# View
+view: compact
+
 # This file represents a page section.
 headless: true
 
