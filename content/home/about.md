@@ -22,7 +22,7 @@ author: admin
 # Widget background
 design:
   background:
-    color: '#F5F4F6'
+    color: '#ffffff'
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
     text_color_light: []
 ---
