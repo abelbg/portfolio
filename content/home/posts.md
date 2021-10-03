@@ -37,5 +37,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 1
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["40px", "200px", "50px", "200px"]
 ---
