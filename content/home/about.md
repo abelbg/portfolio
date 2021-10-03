@@ -25,7 +25,4 @@ design:
     color: '#ffffff'
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
     text_color_light: []  
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["30px", "200px", "50px", "200px"]
 ---
