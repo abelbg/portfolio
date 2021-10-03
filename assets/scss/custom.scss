@@ -48,3 +48,25 @@ a.nav-link:hover:after {
 }
 
 /*----------------------------------*/
+
+a.link {
+  position: relative;
+  transition: clip-path 275ms ease;
+  &:hover span::before, &:focus span::before {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+  span {
+    position: relative;
+    display: inline-block;
+    color: #05299E;
+    &::before {
+      position: absolute;
+      content: attr(data-content);
+      color: $darkblue;
+      text-decoration: underline;
+      text-decoration-color: #E28413;
+      clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
+      transition: clip-path 275ms ease;
+    }
+  }
+}
