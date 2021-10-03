@@ -29,9 +29,6 @@ content:
     author: ''
     exclude_featured: true
 design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["40px", "200px", "50px", "200px"]
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact

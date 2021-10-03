@@ -45,8 +45,4 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["40px", "200px", "50px", "200px"]
 ---

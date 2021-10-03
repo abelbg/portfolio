@@ -27,5 +27,5 @@ design:
     text_color_light: []  
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["32px", "200px", "50px", "200px"]
+    padding: ["30px", "200px", "50px", "200px"]
 ---
