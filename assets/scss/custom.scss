@@ -17,3 +17,24 @@
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
   padding: 0 1rem;
 }
+
+.link {
+  position: relative;
+  transition: clip-path 275ms ease;
+  &:hover span::before, &:focus span::before {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+  span {
+    position: relative;
+    display: inline-block;
+    color: $blue;
+    &::before {
+      position: absolute;
+      content: attr(data-content);
+      color: $darkblue;
+      text-decoration: underline;
+      text-decoration-color: $darkblue;
+      clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
+      transition: clip-path 275ms ease;
+    }
+  }
