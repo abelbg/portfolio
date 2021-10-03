@@ -19,5 +19,5 @@ home_section_even = "#F9F4F1"
 
 [dark]
 
-link = "#05299E"
-link_hover = "#E28413"
+  link = "#05299E"
+  link_hover = "#E28413"
