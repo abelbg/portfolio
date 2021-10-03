@@ -5,7 +5,7 @@ name = "Custom"
 google_fonts = "family=Bebas+Neue&family=Lato:wght@300;400;700&family=Roboto"
 
 # Font families
-heading_font = "Bebas Neue"
+heading_font = "Lato"
 body_font = "Lato"
-nav_font = "Lato"
+nav_font = "Bebas Neue"
 mono_font = "Roboto"
