@@ -7,5 +7,5 @@ google_fonts = "family=Bebas+Neue&family=Lato:wght@300;400;700&family=Roboto"
 # Font families
 heading_font = "Lato"
 body_font = "Lato"
-nav_font = "Bebas Neue"
-mono_font = "Roboto"
+nav_font = "Lato"
+mono_font = "Bebas Neue"
