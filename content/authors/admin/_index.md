@@ -53,7 +53,7 @@ social:
 - icon: medium
   icon_pack: fab
   name: Check out my Medium
-  link: 'https://medium.com/@abelbrionesg'
+  link: 'https://medium.com/@abelbriones'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
