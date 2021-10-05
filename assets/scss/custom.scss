@@ -28,7 +28,8 @@ a.nav-link:before {
 
 a.nav-link {
   position: relative;
-  transition: clip-path 275ms ease;
+  /* Comentando esto porque no funciona */
+  /* transition: clip-path 275ms ease;
   &:hover span::before, &:focus span::before {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
   }
@@ -44,7 +45,7 @@ a.nav-link {
       clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
       transition: clip-path 275ms ease;
     }
-  }
+  }*/
 }
 
 a.nav-link:after {
@@ -69,5 +70,5 @@ a.nav-link:hover:after {
  **************************************************/
 
 .home-section {
-  padding: 10vh 0;
+  padding: 7.5vh 0;
 }
