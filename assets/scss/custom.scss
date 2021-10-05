@@ -35,11 +35,10 @@ a.nav-link {
   span {
     position: relative;
     display: inline-block;
-    color: #05299E;
     &::before {
       position: absolute;
       content: attr(data-content);
-      color: rgb(0, 255, 0);
+      color: #05299E;
       text-decoration: underline;
       text-decoration-color: #E28413;
       clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
