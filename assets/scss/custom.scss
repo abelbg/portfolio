@@ -31,7 +31,7 @@ a.nav-link {
   span {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(to right, midnightblue, midnightblue 50%, royalblue 50%);
+    background: linear-gradient(to right, midnightblue, midnightblue 50%, rgba(0, 0, 0, .8) 50%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
