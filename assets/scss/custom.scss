@@ -2,10 +2,6 @@
  *  Navigation bar
  **************************************************/
 
-.navbar-main .container-xl{
-  max-width: 1000px;
-}
-
 .navbar {
   height: 70px;
   background: $sta-menu-primary;
@@ -19,6 +15,9 @@
   text-transform: uppercase;
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
+  .container-xl {
+    max-width: 1000px;
+  }
 }
 
 /* stroke */
