@@ -30,6 +30,8 @@ a.nav-link {
   position: relative;
   span {
     position: relative;
+    display: inline-block;
+    color: black;
     overflow: hidden;
     background: linear-gradient(to right, midnightblue, midnightblue 50%, black 50%);
     background-clip: text;
