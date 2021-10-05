@@ -28,7 +28,8 @@ a.nav-link:before {
 
 a.nav-link {
   position: relative;
-  span {
+  /* Esto es lo de los links */
+  /* span {
     position: relative;
     display: inline-block;
     color: black;
@@ -43,7 +44,7 @@ a.nav-link {
     &:hover {
       background-position: 0 100%;
     }
-  }
+  }*/ 
 }
 
 a.nav-link:after {
@@ -69,4 +70,10 @@ a.nav-link:hover:after {
 
 .container-xl, .container-lg, .container-md, .container-sm, .container {
   max-width: 1000px;
+}
+
+.home-section:first-of-type {
+  .col-lg-8 {
+    padding-top: 30px;
+  }
 }
