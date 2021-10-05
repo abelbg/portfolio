@@ -28,31 +28,6 @@ a.nav-link:before {
 
 a.nav-link {
   position: relative;
-}
-
-a.nav-link:after {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-  width: 0%;
-  content: '.'; /* make invisible, dot beneath links */
-  color: transparent;
-  background: #E28413;
-  height: 2px;
-}
-
-a.nav-link:hover:after {
-  width: 70%;
-}
-
-/*----------------------------------*/
-
-/* @Murco este es el efecto que te mencioné ayer y que no he sabido implementar*/
-
-a.link {
-  position: relative;
   transition: clip-path 275ms ease;
   &:hover span::before, &:focus span::before {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
@@ -73,4 +48,27 @@ a.link {
   }
 }
 
-/*----------------------------------*/
+a.nav-link:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.'; /* make invisible, dot beneath links */
+  color: transparent;
+  background: #E28413;
+  height: 2px;
+}
+
+a.nav-link:hover:after {
+  width: 70%;
+}
+
+/*************************************************
+ *  Sections
+ **************************************************/
+
+.home-section {
+  padding: 10vh 0;
+}
