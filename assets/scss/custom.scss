@@ -39,7 +39,7 @@ a.nav-link {
     &::before {
       position: absolute;
       content: attr(data-content);
-      color: $darkblue;
+      color: rgb(0, 255, 0);
       text-decoration: underline;
       text-decoration-color: #E28413;
       clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
