@@ -7,12 +7,12 @@ title:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Data Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Universitat Pompeu Fabra
-  url: https://www.upf.edu/
+- name: Universitat Politècnica de Catalunya
+  url: https://www.fib.upc.edu/en/studies/masters/master-artificial-intelligence
 
 # Short bio (displayed in user profile at end of posts)
 bio: Under construction.
@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Master in Artificial Intelligence
+    institution: Universitat Politècnica de Catalunya
+    year: 2022-Ongoing
   - course: Master in Cognitive Systems and Interactive Media
     institution: Universitat Pompeu Fabra
     year: 2020-2022
@@ -41,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/vbel_vbel
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/vbel_vbel
 - icon: github
   icon_pack: fab
   link: https://github.com/abelbg
